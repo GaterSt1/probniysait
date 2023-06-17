@@ -1,0 +1,366 @@
+body{
+    margin: 0;
+}
+
+
+
+.fon_for_header{
+    position: fixed;
+    width: 100%;
+    height: 170px;
+    background-color: #fff;
+    z-index: 1;
+}
+
+.header{
+    position: fixed;
+    z-index: 2;
+}
+
+.Directory{
+position: absolute;
+left: 116px;
+top: 81px;
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+
+color: #000000;
+}
+
+.Discounts{
+position: absolute;
+left: 279px;
+top: 81px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+
+color: #000000;
+}
+
+.Delivery{
+position: absolute;
+left: 447px;
+top: 81px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+
+color: #000000;
+}
+
+.News{
+position: absolute;
+top: 81px;
+left: 599px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+
+color: #000000;
+
+}
+
+.logo{
+top: 60px;
+left: 935px;
+
+position: absolute;
+width: 49px;
+height: 64px;
+}
+
+.search{
+position: absolute;
+width: 529px;
+height: 36px;
+top: 74px;
+left: 1274px;
+
+background: #000000;
+border-radius: 30px;
+color: white;
+text-align: center;
+font-size: 20px;
+}
+
+.line-shapka{
+position: absolute;
+width: 1920px;
+height: 7px;
+top: 170px;
+
+background: black;
+}
+
+
+
+.Novelties{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+
+position: absolute;
+margin: 0;
+top: 222px;
+left: 0;
+right: 0;
+margin-left: auto;
+margin-right: auto;
+width: 380px;
+}
+
+
+
+.t-shirt_for_novelty_neverbrokeagain{
+position: absolute;
+top: 317px;
+left: 98px;
+width: 568px;
+height: 478px;
+}
+
+.t-shirt_for_novelty_juicewrld{
+position: absolute;
+top: 301px;
+left: 693px;
+width: 533px;
+height: 494px;
+}
+
+.t-shirt_for_novelty_sakura{
+position: absolute;
+top: 286px;
+left: 1274px;
+width: 529px;
+height: 524px
+}
+
+
+
+.name_t-shirt_neverbrokeagain{
+position: absolute;
+width: 448px;
+height: 74px;
+top: 811px;
+left: 158px;
+margin: 0;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 37px;
+align-items: center;
+text-align: center;
+    
+color: #000000;
+}
+
+.name_t-shirt_juicewrld{
+position: absolute;
+width: 458px;
+height: 75px;
+top: 811px;
+left: 731px;
+margin: 0;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 37px;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+.name_t-shirt_sakura{
+position: absolute;
+width: 318px;
+height: 73px;
+top: 811px;
+left: 1380px;
+margin: 0;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 37px;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+.Collaborations{
+position: absolute;
+width: 232px;
+height: 37px;
+left: 844px;
+top: 900px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 37px;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+.fon_for_collaborations_names{
+    position: absolute;
+    width: 1730px;
+    height: 95px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #D9D9D9;;
+    top: 1019px;
+}
+
+
+
+.button_neverbrokeagain{
+width: 342.8px;
+height: 95px;
+margin: 0;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+align-items: center;
+text-align: center;
+background-color: #000000;
+color: white;
+transition: 1s;
+}
+
+.button_neverbrokeagain:hover{
+font-size: 35px;
+color: black;
+background-color: white;
+}
+
+
+
+.button_juicewrld{
+width: 342.8px;
+height: 95px;
+margin: 0;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+align-items: center;
+text-align: center;
+background-color: #000000;
+color: white;
+transition: 1s;
+}
+
+.button_juicewrld:hover{
+font-size: 35px;
+color: black;
+background-color: white;
+}
+
+
+
+.button_rodman{
+width: 342.8px;
+height: 95px;
+margin: 0;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+align-items: center;
+text-align: center;
+background-color: #000000;
+color: white;
+transition: 1s;
+}
+
+.button_rodman:hover{
+font-size: 35px;
+color: black;
+background-color: white;
+}
+
+
+
+.button_palmangels{
+width: 342.8px;
+height: 95px;
+margin: 0;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+align-items: center;
+text-align: center;
+background-color: #000000;
+color: white;
+transition: 1s;
+}
+
+.button_palmangels:hover{
+font-size: 35px;
+color: black;
+background-color: white;
+}
+
+
+
+.button_neighborhood{
+width: 342.8px;
+height: 95px;
+margin: 0;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+align-items: center;
+text-align: center;
+background-color: #000000;
+color: white;
+transition: 1s;
+}
+
+.button_neighborhood:hover{
+font-size: 35px;
+color: black;
+background-color: white;
+}
+
+
+
+.fon_for_bottom{
+position: absolute;
+width: 100%;
+height: 250px;
+top: 1182px;
+
+background: #000000;
+}
